@@ -135,10 +135,10 @@ npm run dev
 
 ### 4. Environment File
 
-Create a `.env` file with the following (MongoDB not used here):
+Create a `.env` file with the following (for MongoDB):
 
 ```
-MONGO_URI=your_dummy_mongo_string_if_any
+MONGO_URI=your_mongo_connection_string_here
 ```
 
 ---
