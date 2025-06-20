@@ -3,7 +3,7 @@
 
 ## 🚀 Overview
 
-This is a RESTful API built with **Node.js + Express**, designed for the Zeru assignment on the Nxtwave job board. It simulates a backend service that exposes restaking data from EigenLayer.
+This is a RESTful API built with **Node.js + Express**, designed for the Zeru assignment. It simulates a backend service that exposes restaking data from EigenLayer.
 
 Instead of fetching live data from subgraphs or on-chain, this project uses mock JSON files to simulate the expected data. It fulfills all functional requirements and endpoints as defined in the assignment.
 
@@ -98,7 +98,7 @@ eigenlayer-restaking-api/
 │   ├── validatorController.js
 │   └── rewardController.js
 ├── config/
-│   └── db.js (optional, if using MongoDB)
+│   └── db.js (optional, I am using MongoDB)
 ```
 
 ---
