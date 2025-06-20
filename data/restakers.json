@@ -1,0 +1,12 @@
+[
+  {
+    "userAddress": "0xUser123",
+    "amountRestakedStETH": "100.5",
+    "targetAVSOperatorAddress": "0xOperatorABC"
+  },
+  {
+    "userAddress": "0xUser456",
+    "amountRestakedStETH": "50",
+    "targetAVSOperatorAddress": "0xOperatorDEF"
+  }
+]

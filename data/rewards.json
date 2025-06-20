@@ -1,0 +1,13 @@
+[
+  {
+    "walletAddress": "0xUser123",
+    "totalRewardsReceivedStETH": "75.2",
+    "rewardsBreakdown": [
+      {
+        "operatorAddress": "0xOperatorABC",
+        "amountStETH": "60.0",
+        "timestamps": [1678972800, 1679059200]
+      }
+    ]
+  }
+]

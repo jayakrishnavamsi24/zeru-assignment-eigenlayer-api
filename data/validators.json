@@ -1,0 +1,14 @@
+[
+  {
+    "operatorAddress": "0xOperatorABC",
+    "totalDelegatedStakeStETH": "5000",
+    "slashHistory": [
+      {
+        "timestamp": 1678886400,
+        "amountStETH": "50",
+        "reason": "Misconduct X"
+      }
+    ],
+    "status": "active"
+  }
+]
