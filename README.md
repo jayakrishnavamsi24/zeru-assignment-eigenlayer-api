@@ -117,7 +117,7 @@ eigenlayer-restaking-api/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/eigenlayer-api.git
+git clone [https://github.com/yourusername/eigenlayer-api.git](https://github.com/jayakrishnavamsi24/zeru-assignment-eigenlayer-api)
 cd eigenlayer-api
 ```
 
@@ -154,4 +154,4 @@ MONGO_URI=your_mongo_connection_string_here
 
 ## 📜 License
 
-This project is created only for educational/evaluation purposes for Zeru x Nxtwave job board assignment.
+This project is created only for educational/evaluation purposes for Zeru x Nxtwave assignment.
